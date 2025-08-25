@@ -1,1 +1,1 @@
-# TESTE DE ESCRITA DO CURSO DE Python e LLMs
+# TESTE de ESCRITA do CURSO de Python e LLMs
