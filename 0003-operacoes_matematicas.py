@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # Script: operacoes_matematicas.py
 # Autor: Exemplo
 # Descrição: Este script demonstra operações matemáticas básicas em Python.
